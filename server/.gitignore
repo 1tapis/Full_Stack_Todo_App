@@ -10,13 +10,3 @@ logs/
 # Environment variables
 .env
 
-# Operating system files
-.DS_Store
-Thumbs.db
-
-# Build files
-dist/
-build/
-
-# Coverage reports
-coverage/
